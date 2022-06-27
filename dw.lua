@@ -1,3 +1,3 @@
-local users = {
+users = {
   "L1nest"
   }
