@@ -1,3 +1,3 @@
 users = {
-  "L1nest"
+  ["VIP"] = "L1nest"
   }
